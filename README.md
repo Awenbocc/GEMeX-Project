@@ -5,5 +5,9 @@
 - [2024/12/01] We release part of data and complete training code.
 
 
-### VQA
+### VQA:
+```bash
+cd llava-med
+bash fine_tune_gemex.sh
+```
 
