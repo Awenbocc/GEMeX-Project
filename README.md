@@ -14,12 +14,5 @@ cd llava-med
 bash fine_tune_gemex.sh # modify data location
 ```
 
-## How to evaluate:
-coming soon...
-
-
-## Online Demo:
-coming soon...
-
 
 
