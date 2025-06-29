@@ -3,7 +3,7 @@
 
 ![GEMeX Display](assets/gemex.gif)
 
-## Update
+## News
 - [2025/06/28] 🧠 Building on **GEMeX**, we now introduce [**ThinkVG**](https://arxiv.org/pdf/2506.17939), which helps LVLMs **think** while perform **visually grounding**. 
 - [2025/06/26] 🎉 **Great News!** Our paper has been accepted to **ICCV 2025**!
 - [2025/01/17] We release pre-trained [LLaVA-Med-GEMeX](https://huggingface.co/BoKelvin/GEMeX-VQA-Model-Simple), a simple baseline model based on GEMeX VQA data.
